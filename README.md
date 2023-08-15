@@ -23,3 +23,5 @@ https://front-integrado.surge.sh/
 
 link do Github da parte do BackEnd
 https://github.com/RonalldoTeixeira/labeddit-backEnd
+
+Deploy do Backend https://labeddit-backend-slzf.onrender.com
